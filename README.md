@@ -1,6 +1,6 @@
 # Keras Learning Notebooks
 
-Welcome to the Keras Learning Notebooks repository. This collection of Jupyter notebooks is created as part of my learning journey through the "Deep Neural Networks with PyTorch" course on Coursera. These notebooks illustrate various techniques and methodologies for building, optimizing, and fine-tuning neural networks using Keras.
+Welcome to the Keras Learning Notebooks repository. This collection of Jupyter notebooks is created as part of my learning journey through the "Building model with Keras" course on Coursera. These notebooks illustrate various techniques and methodologies for building, optimizing, and fine-tuning neural networks using Keras.
 
 ## Notebooks Overview
 
