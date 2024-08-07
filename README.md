@@ -44,10 +44,6 @@ These notebooks serve as a comprehensive guide for anyone looking to deepen thei
 
 Feel free to explore the notebooks, experiment with the code, and modify it to suit your learning needs. Your contributions and suggestions are welcome to enhance the repository further.
 
-## Acknowledgements
-
-- This work is inspired by the "Deep Neural Networks with PyTorch" course on Coursera.
-- Special thanks to the Coursera team and the instructors for their invaluable resources and insights.
 
 ---
 
